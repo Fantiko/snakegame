@@ -1,0 +1,10 @@
+# snake tutorial python
+
+import pygame
+import math
+import random
+import tkinter as tk
+from tkinter import messagebox
+
+
+
